@@ -27,6 +27,8 @@ Features:
 5. Payment section.
 
 Tech Stack: HTML | CSS | Javascript | JSON</p>
+<p>Code:- https://github.com/mehtaanand35/MamaEarthClone</p>
+<p>Result:- https://eloquent-allen-ba4ad9.netlify.app/ </p>
 <h3>H & M Clone</h3>
 <p>An e-commerce website known for its fast fashion for men,
 women, teenagers, and children.
@@ -38,3 +40,5 @@ Features:
 4. Dynamic checkout page.
 
 Tech Stack: HTML | CSS | Javascript | JSON |Localstorage</p>
+<p>Code:- https://github.com/ThOmas-Saji/H-and-M-Clone-Project</p>
+<p>Result:- https://mystifying-hypatia-3f95a1.netlify.app/</p>
