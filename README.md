@@ -31,10 +31,11 @@ Tech Stack: HTML | CSS | Javascript | JSON</p>
 <p>An e-commerce website known for its fast fashion for men,
 women, teenagers, and children.
 
- Features:
-<ul>1.User Login/Sign up
-2.Various categories of men,women,teenagers and children .
-3.Sorting and Filter options.
-4.Dynamic checkout page. </ul>
+Features:
+1. User Log in/Sign up
+2. Sorting of products by price range
+3. Product detail page.
+4. Add to cart and dynamic cart features.
+5. Payment section.
 
 Tech Stack: HTML | CSS | Javascript | JSON |Localstorage</p>
