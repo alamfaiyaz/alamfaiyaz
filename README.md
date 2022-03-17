@@ -33,9 +33,8 @@ women, teenagers, and children.
 
 Features:
 1. User Log in/Sign up
-2. Sorting of products by price range
-3. Product detail page.
-4. Add to cart and dynamic cart features.
-5. Payment section.
+2. Various categories of men,women,teenagers and children .
+3. Sorting and Filter options.
+4. Dynamic checkout page.
 
 Tech Stack: HTML | CSS | Javascript | JSON |Localstorage</p>
