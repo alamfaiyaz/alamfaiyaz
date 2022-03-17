@@ -14,7 +14,7 @@
   <li>⚡ Fun fact I love playing cricket.</li>
 </ul>
 <h2>🚀 Languages and Tools</h2>
-<p>![html5-original-wordmark](https://user-images.githubusercontent.com/95962151/158781500-c3d32458-8dd2-4280-ac91-fc4af6943cd8.svg)
+![html5-original-wordmark](https://user-images.githubusercontent.com/95962151/158781500-c3d32458-8dd2-4280-ac91-fc4af6943cd8.svg)
 ![css3-original-wordmark](https://user-images.githubusercontent.com/95962151/158781538-f53ad4bc-d683-4a9c-af9d-ad5fd9111781.svg)
 ![javascript-original](https://user-images.githubusercontent.com/95962151/158781578-be7ddb26-3e60-4153-a261-7f81660e20dd.svg)
 ![mongodb-original-wordmark](https://user-images.githubusercontent.com/95962151/158781605-ec45fa9f-57f2-4131-8355-a35c1e0fae4a.svg)
@@ -24,7 +24,7 @@
 ![webpack-original-wordmark](https://user-images.githubusercontent.com/95962151/158781747-0cbe527a-5bc9-41d8-8f0d-357430955cdc.svg)
 ![express-original-wordmark](https://user-images.githubusercontent.com/95962151/158781796-beac41dd-e59c-4a5b-a7af-baea70fe6d7d.svg)
 
-</P>
+
 <h2>Projects </h2>
 <h3>Mama Earth Clone </h3>
 <p>A website for buying various skincare products for babies and
