@@ -14,4 +14,28 @@
   <li>⚡ Fun fact I love playing cricket.</li>
 </ul>
 <h2>🚀 Languages and Tools</h2>
-html css javascript Nodejs mongodb postman  reactjs redux GIT GIT
+<h2>Projects </h2>
+<h3>Mama Earth Clone </h3>
+<p>A website for buying various skincare products for babies and
+females.
+
+Features:
+1. User Log in/Sign up
+2. Sorting of products by price range
+3. Product detail page.
+4. Add to cart and dynamic cart features.
+5. Payment section.
+
+Tech Stack: HTML | CSS | Javascript | JSON</p>
+<h3>H & M Clone</h3>
+<p>An e-commerce website known for its fast fashion for men,
+women, teenagers, and children.
+
+ Features:
+1.User Login/Sign up
+2.Various categories of men,women,teenagers and children .
+3.Sorting and Filter options.
+4.Dynamic checkout page.
+
+Tech Stack: HTML | CSS | Javascript | JSON |
+Localstorage</p>
