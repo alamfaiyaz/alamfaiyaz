@@ -14,6 +14,9 @@
   <li>⚡ Fun fact I love playing cricket.</li>
 </ul>
 <h2>🚀 Languages and Tools</h2>
+![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d69636f6e2e737667](https://user-images.githubusercontent.com/95962151/158782529-8cfc417d-f5e9-49b6-9719-99411e6702fc.svg)
+![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f6373732f77335f6373732d69636f6e2e737667](https://user-images.githubusercontent.com/95962151/158782565-6083eace-afec-4781-bb12-86a27ef0e917.svg)
+![javascript-original](https://user-images.githubusercontent.com/95962151/158782586-2d034b6f-a8db-4207-833a-c889ffd92b78.svg)
 
 <h2>Projects </h2>
 <h3>Mama Earth Clone </h3>
