@@ -14,3 +14,4 @@
   <li>⚡ Fun fact I love playing cricket.</li>
 </ul>
 <h2>🚀 Languages and Tools</h2>
+html css javascript Nodejs mongodb postman  reactjs redux GIT GIT
