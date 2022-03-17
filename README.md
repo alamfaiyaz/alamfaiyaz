@@ -32,9 +32,9 @@ Tech Stack: HTML | CSS | Javascript | JSON</p>
 women, teenagers, and children.
 
  Features:
-1.User Login/Sign up
+<ul>1.User Login/Sign up
 2.Various categories of men,women,teenagers and children .
 3.Sorting and Filter options.
-4.Dynamic checkout page.
+4.Dynamic checkout page. </ul>
 
 Tech Stack: HTML | CSS | Javascript | JSON |Localstorage</p>
