@@ -37,5 +37,4 @@ women, teenagers, and children.
 3.Sorting and Filter options.
 4.Dynamic checkout page.
 
-Tech Stack: HTML | CSS | Javascript | JSON |
-Localstorage</p>
+Tech Stack: HTML | CSS | Javascript | JSON |Localstorage</p>
